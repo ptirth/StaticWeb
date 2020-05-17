@@ -1,0 +1,2 @@
+# StaticWeb
+My personal website
